@@ -1,6 +1,6 @@
 # White Label App - with 2020 Legacy code
 
-Not in use any more. A new version of this whith a concrete example is here: [https://github.com/hagau-ioan/public_roomwizard][White Label 02]
+Not in use any more. A new version of this whith a concrete example is here: https://github.com/hagau-ioan/public_roomwizard
 
 
 ## Technology, language, libraries, architecture:
@@ -10,8 +10,8 @@ This app is running as a normal client app.
 2. XML Layout
 3. MVVM + Layers Architecture
 4. HILT
-5. Modules: stats, common
-6. Foreground service, Intent Services, Bound Service, Content Providers, Retrofit + httpOK + GSON, Alarm Manager, WorkManager
+5. Modules: library, mw, stats, api
+6. Foreground service, Intent Services, Bound Service, Content Providers, Retrofit + httpOK + GSON, Alarm Manager, WorkManager, Room
 7. GraphQL
 8. Exoplayer
 9. Watson Asistant
@@ -40,3 +40,4 @@ This app is running as a normal client app.
 ##### Sample of the source code
 ![alt text](https://roomwizard.hagau.ro/whitelabel01-screens/10.png)
 
+## View the app in Google Play Store: https://play.google.com/store/apps/details?id=com.fixitpoc.app
